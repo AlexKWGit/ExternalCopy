@@ -9,3 +9,5 @@ Training in basic commands for working with Git.
 ### Task 5. Undoing Changes.
 ### Task 6. Stashing Changes.
 ### Task 7. Git Aliases and Configuration.
+
+New text
